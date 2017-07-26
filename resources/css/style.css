@@ -1,14 +1,27 @@
 * {
-  font-family: verdana;
-  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
-.topofsite{
-  background-image: image(resources/images/the-flatiron-building.png);
+body{
+  font-family: verdana;
+  background-color: white;
+}
+
+.top{
+  background-image: url("the-flatiron-building.png");
+
+}
+
+.navigation {
+
+
 }
 
 h1 {
   color: white;
+  margin:
 }
 
 ul{
