@@ -9,26 +9,27 @@ body{
   background-color: white;
 }
 
+/*Adding background picture to the top div which is the navigation bar and header*/
 .top{
   background-image: url("the-flatiron-building.png");
-
+  margin: 40px 10px;
 }
 
-.navigation {
-
-
-}
-
-h1 {
-  color: white;
-  margin:
-}
-
-ul{
+/*navigation list distance from the header*/
+.placenav {
+  margin: 50px;
+  line-height: 30px;
   list-style-type: none;
 }
 
-.navigation{
-  color: lightgray;
-  font-family: verdana;
+/*header*/
+h1 {
+  color: white;
+  font-size: 60px;
+  
 }
+
+.navigation{
+  color: white;
+  font-weight: bold;
+  }
