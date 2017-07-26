@@ -1,0 +1,13 @@
+* {
+  font-family: verdana;
+  background-color: lightgray;
+}
+
+h1 {
+  color: white;
+}
+
+nav{
+  color: lightgray;
+  list-style-type: none;
+}
