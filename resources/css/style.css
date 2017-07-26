@@ -11,7 +11,11 @@ h1 {
   color: white;
 }
 
+ul{
+  list-style-type: none;
+}
+
 .navigation{
   color: lightgray;
-  list-style-type: none;
+  font-family: verdana;
 }
