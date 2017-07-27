@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: verdana;
+  font-family: helvetica;
   background-color: white;
 }
 
@@ -17,15 +17,16 @@ body{
 
 /*navigation list distance from the header*/
 .placenav {
-  margin: 50px;
-  line-height: 30px;
+  margin: 40px;
+  line-height: 35px;
   list-style-type: none;
+  font-size: 18px;
 }
 
 /*header*/
 h1 {
   color: white;
-  font-size: 60px;
+  font-size: 70px;
 
 }
 
@@ -40,24 +41,34 @@ h1 {
   margin: 20px;
 }
 
-
 .UandE{
   margin: 25px;
 }
 
-
-/*
-img {
-  margin: 20px;
+h3 {
+  font-size: 23px;
 }
-*/
 
 p {
+  font-size: 14px;
   margin: 15px;
 }
 
+#middleheader{
+  background-image: url("the-flatiron-building.png");
+  margin: 10px;
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
 
+#spacetoc{
+  margin: 15px;
+}
 
+.space{
+  line-height: 30px;
+}
 
 
 
@@ -80,7 +91,7 @@ p {
 #copy{
   float: left;
   margin: 7px;
-  font-size: 10px;
+  font-size: 11px;
   color: white;
 }
 
