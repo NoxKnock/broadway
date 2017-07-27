@@ -12,6 +12,8 @@ body{
 /*Adding background picture to the top div which is the navigation bar and header*/
 #topnav{
   background-image: url("the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
   margin: 40px 10px;
 }
 
@@ -56,6 +58,8 @@ p {
 
 #middleheader{
   background-image: url("the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
   margin: 10px;
   color: white;
   font-size: 23px;
@@ -64,13 +68,12 @@ p {
 
 #spacetoc{
   margin: 15px;
+  list-style-type: none;
 }
 
 .space{
   line-height: 30px;
 }
-
-
 
 /*bottom navigation bar including background picutre*/
 #bottomnav{
@@ -96,6 +99,8 @@ p {
 }
 
 #navbottom{
-  background-image: url("the-flatiron-building.png");
-  margin: 10px 10px;
+  background-color: dimgray;
+  margin: 10px;
+ 
+
 }
