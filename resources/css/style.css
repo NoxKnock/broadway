@@ -34,6 +34,33 @@ h1 {
   font-weight: bold;
   }
 
+/*code for webpage h2h3 and paragraphs*/
+
+#process {
+  margin: 20px;
+}
+
+
+.UandE{
+  margin: 25px;
+}
+
+
+/*
+img {
+  margin: 20px;
+}
+*/
+
+p {
+  margin: 15px;
+}
+
+
+
+
+
+
 /*bottom navigation bar including background picutre*/
 #bottomnav{
   list-style-type: none;
