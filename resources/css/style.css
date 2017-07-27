@@ -42,7 +42,8 @@ h1 {
   overflow: hidden;
 }
 
-li a{
+/*in order to have multiple lists you need to add a class, here i added to references, the .bottom class and attribute, seems to work fine!*/
+.bottom a{
   display: block;
   float: left;
   padding: 2px;
