@@ -10,7 +10,7 @@ body{
 }
 
 /*Adding background picture to the top div which is the navigation bar and header*/
-.top{
+#topnav{
   background-image: url("the-flatiron-building.png");
   margin: 40px 10px;
 }
@@ -33,3 +33,30 @@ h1 {
   color: white;
   font-weight: bold;
   }
+
+/*bottom navigation bar including background picutre*/
+#bottomnav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li a{
+  display: block;
+  float: left;
+  padding: 2px;
+  color: white;
+}
+
+#copy{
+  float: left;
+  margin: 7px;
+  font-size: 10px;
+  color: white;
+}
+
+#navbottom{
+  background-image: url("the-flatiron-building.png");
+  margin: 10px 10px;
+}
